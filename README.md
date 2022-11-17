@@ -1,4 +1,4 @@
-selles man 
+
 #include <bits/stdc++.h>
 using namespace std;
 const int N = 4;
@@ -169,23 +169,3 @@ int main()
 
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
